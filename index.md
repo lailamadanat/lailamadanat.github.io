@@ -7,12 +7,12 @@ I have minor experience with HTML & CSS. I'm very used to JavaScript and coding 
 ***
 
 # Portfolio Projects
-[Media Queries]
-[Skeleton]
-[Flexbox]
-[Bootstrap]
-[UIKit]
+Media Queries
+Skeleton
+Flexbox
+Bootstrap
+UIKit
 
 
 
-![my seven rings project made using blender](https://raw.githubusercontent.com/Xwast90/Xwast90.github.io/master/Metalic7Ringscycles.png "one of my more complex works from Blender")
+![Here's a picture of the one and only, Coconut Head!](cocohead.jpg )
