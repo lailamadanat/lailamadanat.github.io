@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### Arrivederci!
 
-You can use the [editor on GitHub](https://github.com/lailamadanat/lailamadanat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It has been a while since I've last used GitHub! I still have access to my old account from 4 years ago, so I might alternate between accounts for no reason haha. Anyways, I'm determined to gain back the skills that I once had. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have minor experience with HTML & CSS. I'm very used to JavaScript and coding video games through applications such as Scratch and App Inventor 2, both block-based JavaScript and MIT based applications.
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Portfolio Projects
+[Media Queries]
+[Skeleton]
+[Flexbox]
+[Bootstrap]
+[UIKit]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lailamadanat/lailamadanat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![my seven rings project made using blender](https://raw.githubusercontent.com/Xwast90/Xwast90.github.io/master/Metalic7Ringscycles.png "one of my more complex works from Blender")
