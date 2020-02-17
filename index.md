@@ -7,12 +7,12 @@ I have minor experience with HTML & CSS. I'm very used to JavaScript and coding 
 ***
 
 # Portfolio Projects
-Media Queries
-Skeleton
-Flexbox
-Bootstrap
-UIKit
+[Media Queries]
+[Skeleton]
+[Flexbox]
+[Bootstrap]
+[UIKit]
 
 
-
-![Here's a picture of the one and only, Coconut Head!](cocohead.jpg )
+COCONUT HEAD!!!!
+![THE ONE AND ONLY!!!](cocohead.jpg)
