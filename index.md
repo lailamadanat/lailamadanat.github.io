@@ -6,9 +6,9 @@
 <link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
 <link href="Reset-Css.css" rel="stylesheet" type="text/css">
 
+<link href="stylesss.css" rel="stylesheet" type="text/css">
 <link href="styless.css" rel="stylesheet" type="text/css">
 <link href="styles.css" rel="stylesheet" type="text/css">
-<link href="stylesss.css" rel="stylesheet" type="text/css">
 <title>DPR 241 Portfolio Site</title>
 </head>
 
