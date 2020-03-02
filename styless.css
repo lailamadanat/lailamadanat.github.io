@@ -139,12 +139,12 @@ margin-bottom:0px;
 * {box-sizing:border-box}
 
 table{
-border: 1px solid #3399CC;
+border: 1px solid #12232e;
 width: 80%;
 border-spacing: 0;}
 
 td,th{padding: 5px 5px 5px 5px;
-border: 1px solid #3399CC;}
+border: 1px solid #12232e;}
 
 td{text-align: center;}
 .text{text-align: left;}
