@@ -1,57 +1,59 @@
 @charset "utf-8";
+/* CSS Document */
+
+#container {
+	width: 100%;
+	max-width: 960px;
+	margin: auto;/*background:none;*/
+	}
 #redBox {
-	background-color: #c30;
-	height: 50px;
-	
-	img{max-width 100%;
-	width:100%;}
+	color: #fff;
+	background-color: #900;
 }
-#picture{background-color:#9f9;
-}
-
-#picture2{display:none;}
-
-
-
 .grid_1 {
-	width: 6.5%;   /*width: 65px;*/
+	width: 6.25%;
 }
 .grid_2 {
-	width: 15%;  /*width: 150px;*/
+	width: 14.583333%;
 }
 .grid_3 {
-	width: 23.5%;  /*width: 235px;*/
+	width: 22.916666%;
 }
 .grid_4 {
-	width: 32%;  /*width: 32px;*/
+	width: 31.25%;
 }
 .grid_5 {
-	width: 40.5%;  /*width: 405px;*/
+	width: 39.583333%;
 }
 .grid_6 {
-	width: 49%;  /*width: 490px;*/
+	width: 47.916666%;
 }
 .grid_7 {
-	width: 57.5%;  /*width: 575px;*/
+	width: 56.25%;
 }
 .grid_8 {
-	width: 66%;  /*width: 660px;*/
+	width: 64.583333%;
 }
 .grid_9 {
-	width: 74.5%;  /*width: 745px;*/
+	width: 72.916666%;
 }
 .grid_10 {
-	width: 83%x;  /*width: 830px;*/
+	width: 81.25%;
 }
 .grid_11 {
-	width: 91.5%;  /*width: 915px;*/
+	width: 89.583333%;
 }
 .grid_12 {
-	width: 100%;  /*width: 1000px;*/
+	width: 97.916666%;
 }
-
+.grid_12ext {
+	width: 100%;
+	margin:0px 0px 20px 0px;
+	float: left;
+	display:block;
+}
 .grid_1,  .grid_2,  .grid_3,  .grid_4,  .grid_5,  .grid_6,  .grid_7,  .grid_8,  .grid_9,  .grid_10,  .grid_11,  .grid_12 {
-	margin :0 2% 1% 0;
+	margin :0 1.0416666% 2.083333% 1.0416666%;
 	float: left;
 	display:block;
 }
@@ -61,12 +63,6 @@
 .omega {
 	margin-right:0px;
 }
-#container {
-	width: 100%;
-	max-width: 1000px;
-	margin: auto;
-	}
-
 .clear {
 	clear:both;
 	display:block;
@@ -85,34 +81,9 @@
 	width:0;
 	Height:0
 }
-
-
-@media only screen and (max-width: 768px) {
-	
-	#picture{display:none;
+* html .clearfix*:first-child+html .clearfix {
+	zoom:1
 }
 
-#picture2{display:inline-block;}
 
-#redBox {
-	background-color: #00F;
-	height: 50px;
-}
-}
 
-@media only screen and (max-width: 480px) {
-	
-	#picture{display:none;
-}
-
-#picture2{display:none;}
-
-#redBox {
-	background-color: #090;
-	height: 50px;
-}
-
-.grid_1,  .grid_2,  .grid_3,  .grid_4,  .grid_5,  .grid_6,  .grid_7,  .grid_8,  .grid_9,  .grid_10,  .grid_11,  .grid_12 {
-width: 100%;
-}
-}
