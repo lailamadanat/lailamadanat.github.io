@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -6,9 +7,9 @@
 <link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
 <link href="Reset-Css.css" rel="stylesheet" type="text/css">
 
-<link href="stylesss.css" rel="stylesheet" type="text/css">
-<link href="styless.css" rel="stylesheet" type="text/css">
-<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="Nav-Style-FJ.css" rel="stylesheet" type="text/css">
+<link href="mystyles.css" rel="stylesheet" type="text/css">
+<link href="03-fluid.css" rel="stylesheet" type="text/css">
 <title>DPR 241 Portfolio Site</title>
 </head>
 
@@ -24,7 +25,7 @@
 <div class="border reverse">
 <h2 class="reverseC">Intro</h2>
 <p>
-Greetings all! Welcome to my official DPR 241 Portfolio Home Page!
+Hello!  And welcome to my Portfolio homepage, please check back frequently and you'll see as each of the projects are completed!
 </p>
 <img width="200" height="" src="qrcode.55024122.png" >
 <label for="Projects">Current Projects done: </label>
@@ -38,7 +39,7 @@ Greetings all! Welcome to my official DPR 241 Portfolio Home Page!
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet orci eu velit malesuada tincidunt. Vivamus bibendum hendrerit odio, viverra ullamcorper ligula. Ut sed faucibus lorem, sit amet finibus libero. Aenean ante nulla, rutrum ac ex id, ultricies congue tellus.</p>
 
         </div>
-        <p class="buttonT"><a href="" class="out marginB">Resumé</a></p>
+        <p class="buttonT"><a href="Skeleton-2.0.4/index.html" class="out marginB">Resumé</a></p>
 <img width="200" height="" src="placeholder.png" >
       </div>
 
