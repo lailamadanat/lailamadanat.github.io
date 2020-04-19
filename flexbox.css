@@ -1,15 +1,15 @@
 <style>
 body {font-family: Verdana, Arial, sans-serif;
-      background-color: #330000;
+      background-color: #ffffff;
 }
 header, h1, wrapper { margin-top: 0; }
-#wrapper {  background-color: gray; 
+#wrapper {  background-color: white; 
 	        width: 90%;
 			margin: auto;
-            color: #330000;
+            color: #000000;
 } 
-h1, h2 { color: pink; }
-header { background-image: url(header.jpg);
+h1, h2 { color: black; }
+header { background-image: url(beach.jpg);
          background-repeat: no-repeat;  	
 		 background-size: cover; 
 }
@@ -38,8 +38,8 @@ aside { -webkit-flex: 2;
 } 
 
 nav a { text-decoration: none;}
-nav a:link { color: black; }
-nav a:visited { color: red; }
+nav a:link { color: gray; }
+nav a:visited { color: purple; }
 nav a:hover { color: blue; }
 footer { text-align: center;
          font-size: 80%;
