@@ -1,52 +1,40 @@
-<!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="flexbox.css">
-  <title>FlexBox</title>
-</head>
-
-
+<title></title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
-  <div class="container">
-
-    <div class="header">
-      <h2>My Favorite Beach Activities</h2>
-    </div>
-
-    <div class="menu">
-      <a class="button" href="https://github.com/lailamadanat/lailamadanat.github.io/blob/master/README.md">Git Repo</a>
-      <a class="button" href="https://lailamadanat.github.io/">Home</a>
-      <a class="button" href="https://lailamadanat.github.io/lailamadanat.github.io/resumé.html">Skeleton</a>
-      <a class="button" href="#">Flexbox</a>
-      <a class="button" href="#">Bootstrap</a>
-    </div>
-
-
-    <div class="main">
-      <div class="content">
-        <img class="image" src="beach.jpg" alt="beach">
-        <p><strong>1. First Activity </strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu non sodales neque sodales ut etiam.</p>
-        <br><p><strong>2. Second Activity </strong>Interdum velit euismod in pellentesque massa placerat. Luctus accumsan tortor posuere ac. Semper risus in hendrerit gravida rutrum quisque non.</p>
-        <br><p><strong>3. Third Activity </strong>Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Eget velit aliquet sagittis id consectetur purus.</p>
-        <br><p><strong>4. Fourth Activity </strong>Lectus proin nibh nisl condimentum id venenatis. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et.</p>
-        <br><p><strong>5. Fifth Activity </strong>Aliquam etiam erat velit scelerisque in dictum. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. </p>
-
-      </div>
-
-      <div class="aside">
-        <h3>BONUS!  Still Stuck at Home?</h3>
-        <br><p>Need another activity? Try this! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu non sodales neque sodales ut etiam.</p>
-      </div>
-
-    </div>
-
-
-    <footer>
-      Copyright &copy; 2020 DPR Mobile Web Development<br>
-      <a href="mailto:lmadanat@mail.dccc.edu">lmadanat@mail.dccc.edu</a> 
-</footer>
+<div id="wrapper">
+  <header role="banner">
+    <h1>Casita Sedona</h1>
+  </header>  
+  <div id="demo">
+  <nav role="navigation">
+    <ul>
+	 <li><a href="https://github.com/lailamadanat/lailamadanat.github.io/blob/master/README.md">Git Repo</a></li>
+     <li><a href="https://lailamadanat.github.io/"">Home</a></li>
+     <li><a href="https://lailamadanat.github.io/lailamadanat.github.io/resumé.html">Skeleton</a></li>
+     <li><a href="https://lailamadanat.github.io/lailamadanat.github.io/resumé.html">Flexbox</a></li>
+	</ul> 
+   </nav>
+   <main role="main">   
+	<h2>Located in the Heart of Sedona</h2>
+    <p>At Casita Sedona Bed &amp; Breakfast you&rsquo;ll be close to art galleries, shops, restaurants, hiking trails, and tours. Ride the free trolley to shops and galleries.</p>
+    <h2>Luxurious Rooms </h2>
+    <p>Stay in a well-appointed room at Casita Sedona with your own fireplace, king-size bed, balcony overlooking the red rocks, private bath with shower, and whirlpool tub for two. Choose from the Canyon, Javelina, Manzanita, Thunder Mountan, and Schnebly rooms &mdash; each is unique and sure to be a high point of your vacation experience.</p>
+  	<h2>Hearty Breakfast</h2>
+    <p>Each day begins with a hearty breakfast that includes your choice of belgian waffles, pumpkin french toast, or quiche. Fresh fruit, yogurt, juice, and coffee are always available.</p>
+	<h2>About Your Hosts</h2>
+	<p>Your hosts, Melanie and Greg Tortuga, are long-time Sedona residents who love to share their knowledge of the Sedona area wtih their guests. Melanie is an author and artist. Greg has years of experience leading jeep tours and guiding hikes in and around Sedona.</p>
+   </main> 
+   <aside role="complementary">
+   <img src="beach.jpg" alt="Pools of water in the rock">
+	 <h2>Guided Hikes</h2>
+	 <p>Casita Sedona offers a free guided hike each week for guests. Explore the Seven Sacred Pools along the Soldiers Pass Trail.</p>
+   </aside>
+   </div> <!-- end of flex container -->
+   <footer role="contentinfo">Copyright &copy; 2014
+   </footer>
+</div>
 </body>
-  
-</html>
 </html>
