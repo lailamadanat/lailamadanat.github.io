@@ -6,6 +6,6 @@ Welcome to my portfolio of work for DPR 241 - Mobile Web Development! I'm very n
 ### Projects
 
 <a href="/lailamadanat/lailamadanat.github.io/blob/master/index.html">Media Queries</a>
-<a href="/lailamadanat/lailamadanat.github.io/blob/master/resumé.html">Resumé</a>
+<a href = "lailamadanat.github.io/resumé.html"><h4>Resumé</h4></a>>Resumé</a>
 <a href="/lailamadanat/lailamadanat.github.io/blob/master/flexbox.html">Flexbox</a>
 <a href="/lailamadanat/lailamadanat.github.io/blob/master/bootstrap.html">Bootstrap</a></p>
