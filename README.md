@@ -22,7 +22,7 @@ Laila Madanat
 
 <a href="Select Project Topic.pdf">Click here for Project Topic</a><br>
 
-<a href="Persona Document Assignment .pdf">Click here for Persona Document</a><br>
+<a href="Persona.pdf">Click here for Persona Document</a><br>
 
 <a href="Competitor Analysis.pdf">Click here for Competitor Analysis</a><br>
 
