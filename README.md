@@ -1,15 +1,41 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML>
+<html lang="en">
 <head>
-   <title>IMM-200-Portfolio</title>
-  </head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>IMM 200 Portfolio</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
 <body>
-<h1>Laila Madanat IMM 200 Portfolio</h1>
-  <ul>
-    <li><a href="Assignment 1 Select Project Topic.pdf">assisgnment1</a></li>
-    <li><a href="Asssignment 2 Persona Document Assignment">assisgnment2</a></li>
-    <li><a href="Assignment 3 Competitor Analysis.pdf">assisgnment3</a></li>
- </ul>
- <p></p>
-</body>
+
+
+
+<div id="wrapper">
+<div id="header">
+<!-- instead of an image tag we will use a background image and change it in the css -->
+</div><!-- end header div -->
+
+<h1>IMM 200 Portfolio</h1><p>
+Laila Madanat
+<div id="content">
+
+<a href="Select Project Topic.pdf">Click here for Project Topic</a><br>
+
+<a href="Persona Document.pdf">Click here for Persona Document</a><br>
+
+<a href="Competitor Analysis.pdf">Click here for Competitor Analysis</a><br>
+
+
+
+</div><!-- end content div -->
+
+<div id="footer">
+
+</div><!-- end footer div -->
+
+
+</div><!-- end wrapper div -->
+  </body>
 </html>
