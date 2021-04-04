@@ -28,6 +28,10 @@ Laila Madanat
 
 <a href="Storyboard.pdf">Click here for Storyboarding</a><br>
 
+<a href="assignment5-LailaMadanat.zip">Click here for Sketches</a><br>
+
+<a href="Storyboard.pdf">Click here for Mobile Prototype</a><br>
+
 
 </div><!-- end content div -->
 
