@@ -26,7 +26,7 @@ Laila Madanat
 
 <a href="Competitor Analysis.pdf">Click here for Competitor Analysis</a><br>
 
-<a href="Storyboard.pdf">Click here for Project Topic</a><br>
+<a href="Storyboard.pdf">Click here for Storyboarding</a><br>
 
 
 </div><!-- end content div -->
