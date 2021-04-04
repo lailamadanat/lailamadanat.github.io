@@ -30,7 +30,7 @@ Laila Madanat
 
 <a href="assignment5-LailaMadanat.zip">Click here for Sketches</a><br>
 
-<a href="Storyboard.pdf">Click here for Mobile Prototype</a><br>
+<a href="https://marvelapp.com/prototype/28eha2ag/screen/77607269">Click here for Mobile Prototype</a><br>
 
 
 </div><!-- end content div -->
