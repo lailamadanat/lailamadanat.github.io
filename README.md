@@ -1,4 +1,4 @@
-# IMM-200-Portfolio
+# IMM 200 Portfolio
 **Laila Madanat**
 
 <a href="Select Project Topic.pdf">Click here for Project Topic</a><br>
