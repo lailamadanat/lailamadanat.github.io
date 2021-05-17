@@ -12,3 +12,9 @@
 <a href="assignment5-LailaMadanat.zip">Click here for Sketches</a><br>
 
 <a href="https://marvelapp.com/prototype/28eha2ag/screen/77607269">Click here for Mobile Prototype</a><br>
+
+<a href="https://lailas-website-prototype.webflow.io/">Click here for Creating coded prototypes/websites without knowing how to code</a><br>
+
+<a href="Assignment 8 - Career Research Assignment Worksheet.pdf">Click here for Career Research Assignment</a><br>
+
+<a href="Final.zip">Click here for Final</a><br>
